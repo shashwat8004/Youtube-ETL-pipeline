@@ -24,7 +24,7 @@ In this project we focus mainly on how to manage, streamline, and perform analys
 
 ## Dataset Used
 
-This Kaggle dataset contains statistics (CSV files) on daily popular YouTube videos over several months. There are up to 200 trending videos published every day to many locations all over the world. The data for each region is in its own file. The video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count are among the items included in the data. A category_id field, which differs by area, is also included in the JSON file linked to the region
+This Kaggle dataset contains statistics (CSV files) on daily popular YouTube videos over several months. There are up to 200 trending videos published every day to many locations all over the world. The data for each region is in its own file. The video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count are among the items included in the data. A category_id field, which differs by area, is also included in the JSON file linked to the region.
 
 Link: https://www.kaggle.com/datasets/datasnaek/youtube-new
 
